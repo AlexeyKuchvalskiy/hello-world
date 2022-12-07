@@ -8,3 +8,6 @@ It now includes steps for GitHub
 Actually two lines
 
 This is example for PULL command
+
+This is example for PUSH command
+and one more time
